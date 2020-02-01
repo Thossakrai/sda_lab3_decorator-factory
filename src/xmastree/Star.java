@@ -10,6 +10,7 @@ public class Star extends TreeDecorator {
 			else { // else we didn't have a star
 				System.out.println("Tress has a star already");
 				this.tree=tree;
+
 			}
 		}
 		
