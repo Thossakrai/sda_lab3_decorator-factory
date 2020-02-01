@@ -8,7 +8,7 @@ public class Star extends TreeDecorator {
 				 this.tree=new RealStar(tree); // now wrap it with the real star decorator object
 			}
 			else { // else we didn't have a star
-				System.out.println("Has a star already");
+				System.out.println("Tress has a star already");
 				this.tree=tree;
 			}
 		}
