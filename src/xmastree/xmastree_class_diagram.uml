@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="501.30879629629646" y="477.0">xmastree.Star</node>
+    <node x="1019.8583333333333" y="388.0">xmastree.Ribbons</node>
+    <node x="265.1916666666668" y="388.0">xmastree.BallsSilver</node>
+    <node x="718.8617283950618" y="566.0">xmastree.Test_tree</node>
+    <node x="902.8583333333333" y="388.0">xmastree.Ruffles</node>
+    <node x="806.8583333333333" y="388.0">xmastree.LEDs</node>
+    <node x="590.3583333333333" y="205.0">xmastree.TreeDecorator</node>
+    <node x="410.1916666666668" y="388.0">xmastree.Lights</node>
+    <node x="75.51404320987672" y="217.0">xmastree.DouglasFir</node>
+    <node x="539.8583333333333" y="388.0">xmastree.RealStar</node>
+    <node x="141.19166666666672" y="388.0">xmastree.BallsRed</node>
+    <node x="1012.7310185185186" y="217.0">xmastree.BalsamFir</node>
+    <node x="1221.5182098765433" y="217.0">xmastree.BlueSpruce</node>
+    <node x="675.8583333333333" y="388.0">xmastree.BallsBlue</node>
+    <node x="435.6916666666668" y="217.0">xmastree.FraserFir</node>
+    <node x="511.46944444444455" y="0.0">xmastree.Tree</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="xmastree.LEDs" target="xmastree.TreeDecorator">
+      <point x="0.0" y="-14.5" />
+      <point x="844.8583333333333" y="338.0" />
+      <point x="694.6083333333333" y="338.0" />
+      <point x="34.75" y="26.5" />
+    </edge>
+    <edge source="xmastree.Test_tree" target="xmastree.Lights">
+      <point x="-27.75" y="-14.5" />
+      <point x="746.6117283950618" y="536.0" />
+      <point x="363.4754629629631" y="536.0" />
+      <point x="363.4754629629631" y="457.0" />
+      <point x="455.1916666666668" y="457.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="xmastree.Star" target="xmastree.TreeDecorator">
+      <point x="9.5" y="-14.5" />
+      <point x="548.8087962962965" y="447.0" />
+      <point x="654.3583333333333" y="447.0" />
+      <point x="654.3583333333333" y="368.0" />
+      <point x="655.9972222222223" y="368.0" />
+      <point x="-3.861111111111086" y="26.5" />
+    </edge>
+    <edge source="xmastree.BallsSilver" target="xmastree.Tree">
+      <point x="-41.66666666666663" y="-14.5" />
+      <point x="286.02500000000015" y="145.0" />
+      <point x="555.7444444444445" y="145.0" />
+      <point x="-36.22500000000002" y="37.5" />
+    </edge>
+    <edge source="xmastree.DouglasFir" target="xmastree.Tree">
+      <point x="-29.5" y="-14.5" />
+      <point x="105.01404320987672" y="115.0" />
+      <point x="531.5944444444445" y="115.0" />
+      <point x="-60.375" y="37.5" />
+    </edge>
+    <edge source="xmastree.Ruffles" target="xmastree.TreeDecorator">
+      <point x="-32.33333333333337" y="-14.5" />
+      <point x="919.025" y="328.0" />
+      <point x="702.3305555555557" y="328.0" />
+      <point x="42.472222222222285" y="26.5" />
+    </edge>
+    <edge source="xmastree.Test_tree" target="xmastree.Star">
+      <point x="-9.25" y="-14.5" />
+      <point x="765.1117283950618" y="526.0" />
+      <point x="539.3087962962965" y="526.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="xmastree.Ribbons" target="xmastree.Tree">
+      <point x="32.333333333333314" y="-14.5" />
+      <point x="1100.6916666666666" y="278.0" />
+      <point x="1002.2310185185186" y="278.0" />
+      <point x="1002.2310185185186" y="135.0" />
+      <point x="636.2444444444445" y="135.0" />
+      <point x="44.27499999999998" y="37.5" />
+    </edge>
+    <edge source="xmastree.Star" target="xmastree.RealStar">
+      <point x="-9.5" y="-14.5" />
+      <point x="529.8087962962965" y="437.0" />
+      <point x="591.8583333333333" y="437.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="xmastree.RealStar" target="xmastree.TreeDecorator">
+      <point x="34.66666666666663" y="-14.5" />
+      <point x="626.5250000000001" y="368.0" />
+      <point x="648.2750000000001" y="368.0" />
+      <point x="-11.583333333333371" y="26.5" />
+    </edge>
+    <edge source="xmastree.BallsRed" target="xmastree.TreeDecorator">
+      <point x="0.0" y="-14.5" />
+      <point x="193.19166666666672" y="298.0" />
+      <point x="594.2194444444444" y="298.0" />
+      <point x="-65.63888888888891" y="26.5" />
+    </edge>
+    <edge source="xmastree.LEDs" target="xmastree.Tree">
+      <point x="25.33333333333323" y="-14.5" />
+      <point x="870.1916666666666" y="155.0" />
+      <point x="620.1444444444445" y="155.0" />
+      <point x="28.174999999999955" y="37.5" />
+    </edge>
+    <edge source="xmastree.FraserFir" target="xmastree.Tree">
+      <point x="27.75" y="-14.5" />
+      <point x="518.9416666666668" y="175.0" />
+      <point x="579.8944444444445" y="175.0" />
+      <point x="-12.075000000000045" y="37.5" />
+    </edge>
+    <edge source="xmastree.BallsBlue" target="xmastree.TreeDecorator">
+      <point x="0.0" y="-14.5" />
+      <point x="731.3583333333333" y="358.0" />
+      <point x="679.163888888889" y="358.0" />
+      <point x="19.305555555555543" y="26.5" />
+    </edge>
+    <edge source="xmastree.BlueSpruce" target="xmastree.Tree">
+      <point x="-29.5" y="-14.5" />
+      <point x="1251.0182098765433" y="105.0" />
+      <point x="660.3944444444445" y="105.0" />
+      <point x="68.42499999999995" y="37.5" />
+    </edge>
+    <edge source="xmastree.Ruffles" target="xmastree.Tree">
+      <point x="32.333333333333314" y="-14.5" />
+      <point x="983.6916666666666" y="308.0" />
+      <point x="939.7060185185186" y="308.0" />
+      <point x="939.7060185185186" y="145.0" />
+      <point x="628.1944444444446" y="145.0" />
+      <point x="36.22500000000002" y="37.5" />
+    </edge>
+    <edge source="xmastree.Lights" target="xmastree.TreeDecorator">
+      <point x="30.0" y="-14.5" />
+      <point x="485.1916666666668" y="348.0" />
+      <point x="632.8305555555555" y="348.0" />
+      <point x="-27.02777777777783" y="26.5" />
+    </edge>
+    <edge source="xmastree.Ribbons" target="xmastree.TreeDecorator">
+      <point x="-32.33333333333334" y="-14.5" />
+      <point x="1036.025" y="298.0" />
+      <point x="717.7750000000001" y="298.0" />
+      <point x="57.91666666666674" y="26.5" />
+    </edge>
+    <edge source="xmastree.Test_tree" target="xmastree.Ribbons">
+      <point x="27.75" y="-14.5" />
+      <point x="802.1117283950618" y="536.0" />
+      <point x="1068.3583333333333" y="536.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="xmastree.TreeDecorator" target="xmastree.Tree">
+      <point x="-34.75" y="-26.5" />
+      <point x="625.1083333333333" y="185.0" />
+      <point x="595.9944444444445" y="185.0" />
+      <point x="4.024999999999977" y="37.5" />
+    </edge>
+    <edge source="xmastree.BallsRed" target="xmastree.Tree">
+      <point x="-34.66666666666663" y="-14.5" />
+      <point x="158.5250000000001" y="288.0" />
+      <point x="204.01404320987672" y="288.0" />
+      <point x="204.01404320987672" y="135.0" />
+      <point x="547.6944444444446" y="135.0" />
+      <point x="-44.27499999999998" y="37.5" />
+    </edge>
+    <edge source="xmastree.BalsamFir" target="xmastree.Tree">
+      <point x="27.75" y="-14.5" />
+      <point x="1095.9810185185186" y="115.0" />
+      <point x="652.3444444444445" y="115.0" />
+      <point x="60.375" y="37.5" />
+    </edge>
+    <edge source="xmastree.Test_tree" target="xmastree.Ruffles">
+      <point x="9.25" y="-14.5" />
+      <point x="783.6117283950618" y="526.0" />
+      <point x="951.3583333333333" y="526.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="xmastree.Test_tree" target="xmastree.BlueSpruce">
+      <point x="46.25" y="-14.5" />
+      <point x="820.6117283950618" y="546.0" />
+      <point x="1280.5182098765433" y="546.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="xmastree.Lights" target="xmastree.Tree">
+      <point x="-30.0" y="-14.5" />
+      <point x="425.1916666666668" y="155.0" />
+      <point x="563.7944444444446" y="155.0" />
+      <point x="-28.174999999999955" y="37.5" />
+    </edge>
+    <edge source="xmastree.Test_tree" target="xmastree.Tree">
+      <point x="-46.25" y="-14.5" />
+      <point x="728.1117283950618" y="546.0" />
+      <point x="0.0" y="546.0" />
+      <point x="0.0" y="95.0" />
+      <point x="515.4944444444445" y="95.0" />
+      <point x="-76.47500000000002" y="37.5" />
+    </edge>
+    <edge source="xmastree.BallsSilver" target="xmastree.TreeDecorator">
+      <point x="0.0" y="-14.5" />
+      <point x="327.6916666666668" y="318.0" />
+      <point x="609.663888888889" y="318.0" />
+      <point x="-50.19444444444446" y="26.5" />
+    </edge>
+    <edge source="xmastree.Star" target="xmastree.Tree">
+      <point x="-28.5" y="-14.5" />
+      <point x="510.80879629629646" y="447.0" />
+      <point x="19.52500000000009" y="447.0" />
+      <point x="19.52500000000009" y="105.0" />
+      <point x="523.5444444444446" y="105.0" />
+      <point x="-68.42499999999995" y="37.5" />
+    </edge>
+    <edge source="xmastree.BallsBlue" target="xmastree.Tree">
+      <point x="37.0" y="-14.5" />
+      <point x="768.3583333333333" y="165.0" />
+      <point x="612.0944444444445" y="165.0" />
+      <point x="20.125" y="37.5" />
+    </edge>
+    <edge source="xmastree.RealStar" target="xmastree.Tree">
+      <point x="-34.66666666666663" y="-14.5" />
+      <point x="557.1916666666668" y="185.0" />
+      <point x="587.9444444444446" y="185.0" />
+      <point x="-4.024999999999977" y="37.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="699.0" y="179.0" />
+  <SelectedNodes>
+    <node>xmastree.BalsamFir</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
