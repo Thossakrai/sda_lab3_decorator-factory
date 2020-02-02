@@ -1,4 +1,4 @@
-package fm;
+package factoryMethod;
 
 public class TestSlots {
 	public static void main(String[] args) {

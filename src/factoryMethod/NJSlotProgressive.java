@@ -1,16 +1,16 @@
-package fm;
+package factoryMethod;
 
 public class NJSlotProgressive extends Slot {
 	public NJSlotProgressive() {
 		name="Progressive";
-		software = "Android";
+		os = "Windows XP";
 		components.add("Small");
-		components.add("coins");
+		components.add("bills");
 		components.add("CRT");
-		components.add("X77");
+		components.add("X86");
 	}
 	
 	void ship() {
-		System.out.println("having uncle vinnie drop it off");
+		System.out.println("Having uncle vinnie drop it off");
 	}
 }

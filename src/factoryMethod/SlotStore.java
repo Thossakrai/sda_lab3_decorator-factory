@@ -1,4 +1,4 @@
-package fm;
+package factoryMethod;
 
 public abstract class SlotStore {
 	public Slot orderSlot(slottype type) {

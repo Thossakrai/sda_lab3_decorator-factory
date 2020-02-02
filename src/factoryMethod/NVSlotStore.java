@@ -1,4 +1,4 @@
-package fm;
+package factoryMethod;
 
 public class NVSlotStore extends SlotStore {
 	

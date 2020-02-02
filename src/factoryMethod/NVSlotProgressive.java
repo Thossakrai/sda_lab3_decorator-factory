@@ -1,13 +1,13 @@
-package fm;
+package factoryMethod;
 
 public class NVSlotProgressive extends Slot {
 	
 	public NVSlotProgressive() {
-		cost=300;
+//		cost=300;
 		name="Progressive";
-		software = "Android";
-		components.add("Large");
-		components.add("Ticketinticketout");
+		os = "Android";
+		components.add("Medium");
+		components.add("ticketInTicketOut");
 		components.add("LCD");
 		components.add("X77");
 	}
