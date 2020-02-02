@@ -40,5 +40,4 @@ public abstract class Slot {
 	public float cost() {
 		return cost; 
 	}
-		
 }
