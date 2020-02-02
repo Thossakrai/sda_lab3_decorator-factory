@@ -6,7 +6,10 @@ public class WSlotStore extends SlotStore {
 		Slot tmp = null;
 		if (type.equals(slottype.progressive)) { 
 			tmp = new WSlotProgressive();
-			tmp.cost=(float) (tmp.cost*1.1);
+		} else if (type.equals(slottype.bonus)) {
+			tmp = new WSlotBonus();
+		} else if (type.equals(slottype.straight)) {
+			tmp = new WSlotStraight();
 		}
 		return tmp;
 	}
